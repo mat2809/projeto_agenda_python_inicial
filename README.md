@@ -1,13 +1,24 @@
-# Projeto Agenda Python
+Este é um projeto simples de uma agenda de contatos feita em Python, utilizando banco de dados SQLite3, sem interface gráfica.
 
-## Objetivo
-Este projeto consiste em uma agenda de contatos com operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) utilizando Python e SQLite3.
+## 🚀 Funcionalidades
+- Adicionar contatos
+- Listar todos os contatos
+- Buscar contato por nome
+- Remover contato por ID
 
-## Como Executar o Programa
-1. Crie e ative o ambiente virtual.
-2. Execute o programa com o comando:
-   ```bash
-   python agenda.py
+## ▶️ Como executar
 
-Créditos
-Aluno: Matheus Colaço 
+1. Execute no terminal:
+
+```bash
+python agenda.py
+```
+
+2. Siga o menu interativo.
+
+## 📦 Requisitos
+- Python 3.x instalado
+- Módulo sqlite3 (já incluso no Python)
+
+## 🧑‍💻 Autor
+Aluno(a): [Matheus Colaço Dourado]
